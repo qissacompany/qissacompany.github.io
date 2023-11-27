@@ -1,2 +1,2 @@
 # qpages
-repo for https://company.qissa.fi/
+https://company.qissa.fi/
