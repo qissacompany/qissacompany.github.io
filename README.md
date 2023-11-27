@@ -1,2 +1,2 @@
 # qpages
-repo for https://qissacompany.github.io/
+repo for https://company.qissa.fi/
