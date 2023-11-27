@@ -2,9 +2,12 @@
 <html>
 <head>
     <title>Qissa Company</title>
-    
     <script>
-        window.location = "https://qissacompany.streamlit.app";
+        function redirect() {
+            window.location = "https://qissacompany.streamlit.app";
+        }
+        // Wait for 2 seconds before redirecting
+        setTimeout(redirect, 2000); 
     </script>
     <style>
         body, html {
@@ -24,13 +27,15 @@
             left: 50%;
             transform: translate(-50%, -50%);
             font-size: 20px;
-            color: white; /* or any other color */
+            color: white;
         }
     </style>
 </head>
 <body>
     <div class="centered">
-        <p>If redirection failed, enter the site <a href="https://qissacompany.streamlit.app">here..</a>.</p>
+        <p>You will be redirect shortly if you will.. 
+        <a href="https://qissacompany.streamlit.app">on the main page.</a>
+        </p>
     </div>
 </body>
 </html>
