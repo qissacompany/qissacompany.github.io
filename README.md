@@ -1,2 +1,2 @@
 # qpages
-http://company.qissa.fi/
+https://company.qissa.fi/
